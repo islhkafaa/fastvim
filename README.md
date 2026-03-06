@@ -28,7 +28,7 @@ Featuring a deep integration with the Tokyo Night theme and customized for KDE B
 2. **Clone the configuration**:
 
    ```bash
-   git clone <your-repo-url> ~/.config/nvim
+   git clone https://github.com/islhkafaa/fastvim ~/.config/nvim
    ```
 
 3. **Launch Neovim**:
